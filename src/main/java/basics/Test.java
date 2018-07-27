@@ -1,8 +1,6 @@
 package basics;
 
 public class Test {
-	public static final int num = 90;
-	public final int check = 70;
 	public void add(int a ,int b) {
 		System.out.println("in int");
 		System.out.println(a+b);
